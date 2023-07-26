@@ -1,0 +1,2 @@
+# StudentManagementSystem
+It's a Spring Boot CRUD Web Application with Thymeleaf, Spring MVC, Spring Data JPA &amp; Hibernate
